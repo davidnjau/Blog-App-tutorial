@@ -14,6 +14,10 @@ The app uses the Firebase Authentication for login and registration of users, Fi
 
 ## Screenshots
 ![Example screenshot 1](https://user-images.githubusercontent.com/32579647/82094536-f2103300-9705-11ea-8700-549de5aa98fa.png)
+![3](https://user-images.githubusercontent.com/32579647/82094925-b0cc5300-9706-11ea-84e0-8777dea6174f.png)
+![Screenshot_1589564607](https://user-images.githubusercontent.com/32579647/82095011-d8bbb680-9706-11ea-89e5-ef2c09427cec.png)
+![Screenshot_1589564578](https://user-images.githubusercontent.com/32579647/82095123-1587ad80-9707-11ea-882a-4d3283999dd5.png)
+
 
 
 ## Technologies
