@@ -13,7 +13,8 @@ This is a simple blog app aimed at explaining the simple features of developing 
 The app uses the Firebase Authentication for login and registration of users, Firebase Storage for storage of images uploaded by the app and Firebase Database for the database.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot 1](https://user-images.githubusercontent.com/32579647/82094536-f2103300-9705-11ea-8700-549de5aa98fa.png)
+
 
 ## Technologies
 *  version 1.0
